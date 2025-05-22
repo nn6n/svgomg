@@ -34,7 +34,7 @@
     "stylelint-config-twbs-bootstrap": "^6.0.0",
     "svgo": "^3.0.0",
     "vinyl-map": "^1.0.2",
-    "xo": "^0.52.4"
+    "xo": "^0.60.0"
   },
   "scripts": {
     "build": "gulp clean-build",
